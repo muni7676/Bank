@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form {
+  background-color: aqua;
+  width: auto;
+  margin-left:20px;
+}
+.form input {
+  width: 212px;
+  height: 18px;
+  margin: 12px;
+
+}
+.form label {
+  width: 48px;
+}
+.btn {
+  width: auto;
+  height: 42px;
+  background-color: darkblue;
+  color: white;
+}
+
